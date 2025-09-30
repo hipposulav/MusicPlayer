@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#2E3192</color>
+    <color name="purple_500">#2E3192</color>
+    <color name="purple_700">#2E3192</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="your_color">#2E3192</color>
+    <color name="status_bar_selected">#6200EE</color>   <!-- example: deep purple -->
+    <color name="status_bar_unselected">#121212</color> <!-- example: dark gray -->
+
+    <color name="status_text_selected">#FFFFFF</color>  <!-- white text/icons -->
+    <color name="status_text_unselected">#000000</color> <!-- dark text/icons -->
+
+    <color name="gradient_start">#2E3192</color>   <!-- start of gradient / status bar -->
+    <color name="gradient_end">#1BFFFF</color>     <!-- end of gradient -->
+</resources>
